@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  
+  color: rgb(234, 238, 8);
+  padding: 1em 0;
+  text-align: center;
+  background-image: url('https://okupatic.wordpress.com/wp-content/uploads/2020/04/lenguajes_1.png?w=398');  /* Ruta de tu imagen */
+  background-size: cover;  /* Asegura que la imagen cubra todo el área */
+  background-position: center;  /* Centra la imagen */
+  background-attachment: fixed;  /* Mantiene la imagen fija al hacer scroll */
+}
+
+nav {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);  /* Tres columnas */
+  gap: 20px;
+  padding: 20px;
+}
+
+nav a {
+  background-color: #7a85ec;
+  color: black;
+  padding: 20px;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s;
+  height: 70px;
+  text-align: center;
+}
+
+nav a:hover {
+  background-color: #ddd;
+}
+
+main {
+  padding: 2em;
+  text-align: center;
+}
