@@ -12,7 +12,7 @@ const ejercicios = [
   { id: 10, titulo: "Ejercicio 10. Resumen XML", enlace: "index3.html/imagen3" },
   { id: 11, titulo: "Ejercicio 11. Resumen JSON", enlace: "https://radhames08.github.io/JSON.github.io/" },
   { id: 12, titulo: "Ejercicio 12. Resumen AJAX", enlace: "https://radhames08.github.io/AJAX.github.io/" },
-  { id: 13, titulo: "Ejercicio 13. Fomulario con acceso a BD", enlace: "https://radhames08.github.io/FormulBD.github.io-/" },
+  { id: 13, titulo: "Ejercicio 13. Fomulario con acceso a BD", enlace: "index4.html" },
   { id: 14, titulo: "Ejercicio 14. Resumen Modelo MVC", enlace: "https://radhames08.github.io/MVC.github.io-/" },
   { id: 15, titulo: "Ejercicio 15. Funncionalidades de este Framework", enlace: " https://radhames08.github.io/Spring-Framework.github.io/" },
 
