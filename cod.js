@@ -9,7 +9,7 @@ const ejercicios = [
   { id: 7, titulo: "Ejercicio 7. Crear Formulario con múltiples páginas", enlace: "https://radhames08.github.io/PaginasMultiples.github.io-/" },
   { id: 8, titulo: "Ejercicio 8. Crear un formulario de contactos, generar código QR", enlace: "https://radhames08.github.io/CodigoQR.github.io-/" },
   { id: 9, titulo: "Ejercicio 9. Crear un formulario que integre una librería para realizar gráficos", enlace: "https://radhames08.github.io/Graficos.github.io/" },
-  { id: 10, titulo: "Ejercicio 10. Resumen XML", enlace: "index3.html/imagen3" },
+  { id: 10, titulo: "Ejercicio 10. Resumen XML", enlace: "index3.html#imagen3" },
   { id: 11, titulo: "Ejercicio 11. Resumen JSON", enlace: "https://radhames08.github.io/JSON.github.io/" },
   { id: 12, titulo: "Ejercicio 12. Resumen AJAX", enlace: "https://radhames08.github.io/AJAX.github.io/" },
   { id: 13, titulo: "Ejercicio 13. Fomulario con acceso a BD", enlace: "index4.html" },
