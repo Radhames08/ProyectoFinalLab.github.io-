@@ -3,7 +3,7 @@ const ejercicios = [
   { id: 1, titulo: "Ejercicio 1", enlace: "ejercicio1.html" },
   { id: 2, titulo: "Ejercicio 2. Datos Personales", enlace: "Ejercicio2.html" },
   { id: 3, titulo: "Ejercicio 3. 102 Etiquetas HTML", enlace: "https://radhames08.github.io/102HTML/" },
-  { id: 4, titulo: "Ejercicio 4. Hacer una estructura de menús usando CSS, tomando como ejemplo la página del Banco de Reservas", enlace: "https://radhames08.github.io/Banco.github.io/icio4.html" },
+{ id: 4, titulo: "Ejercicio 4. Hacer una estructura de menús usando CSS, tomando como ejemplo la página del Banco de Reservas", enlace: "https://radhames08.github.io/Banco.github.io/" },
   { id: 5, titulo: "Ejercicio 5. Utilizando el algoritmo del módulo 10, validar si una cédula es correcta", enlace: "https://radhames08.github.io/Cedula.github.io/" },
   { id: 6, titulo: "Ejercicio 6. Crear menú dinámico, utilizando una estructura de datos (JSON, XML.....)", enlace: "https://radhames08.github.io/MenuDinamico.github.io/" },
   { id: 7, titulo: "Ejercicio 7. Crear Formulario con múltiples páginas", enlace: "https://radhames08.github.io/PaginasMultiples.github.io-/" },
